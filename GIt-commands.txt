@@ -1,7 +1,11 @@
 git clone url
+git init
 git status
 git add .
 git commit -m "Initialcommit"
 git push
 git pull
 git merge
+git statsh 
+git stage 
+git revert
