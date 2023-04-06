@@ -1,0 +1,7 @@
+git clone url
+git status
+git add .
+git commit -m "Initialcommit"
+git push
+git pull
+git merge
