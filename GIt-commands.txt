@@ -9,3 +9,5 @@ git merge
 git statsh 
 git stage 
 git revert
+git checkout -b <br-name>
+git branch <r-name>
