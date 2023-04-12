@@ -1,0 +1,3 @@
+gti branch testing
+git branch 
+git checkout <testing>
