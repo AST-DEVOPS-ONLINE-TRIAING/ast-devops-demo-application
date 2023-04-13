@@ -1,1 +1,3 @@
 created a new file to check on dev branch
+trying to do practice few other commands in Github
+i hav etried to stash my changes and i succeed!!!!
